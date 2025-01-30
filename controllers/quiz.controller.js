@@ -24,7 +24,7 @@ const analyzePerformance = async (req, res) => {
     } catch (err) {
         res.status(500).json({
             message: "Error analyzing quiz performance",
-            error: err.data
+            error: err.message
         });
     }
 }
