@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const fetchQuizdata = async () => {
-    const response = await axios.get(process.env.QUIZ_ENDPOINT)
+    const response = await axios.get(process.env.QUIZ_ENDPOINT);
     const data = response.data
     return data;
 }
