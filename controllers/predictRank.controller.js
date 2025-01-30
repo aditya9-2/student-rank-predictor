@@ -30,7 +30,7 @@ const predictRank = async (req, res) => {
     } catch (error) {
         res.status(500).json({
             message: "Error Predicting rank",
-            error: error.data
+            error: error.message
         });
     }
 }
