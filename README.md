@@ -20,8 +20,8 @@ The project exposes three primary API routes:
 
 3. **Insight Generation:** The system identifies weak areas, performance trends, and accuracy gaps.
 
-
 ## API Routes
+
 The application exposes the following API routes:
 
 1. **Analyze Performance**
@@ -85,14 +85,16 @@ SUBMISSION_ENDPOINT=""
 npm run dev
 ```
 
-
 ## Screenshots of routes
 
 ### Analyze Performance
-![Analyze Performance](https://postimg.cc/PNHkDFdX)
+
+[![analyze.jpg](https://i.postimg.cc/bYDYKKMt/analyze.jpg)](https://postimg.cc/PNHkDFdX)
 
 ### Predict Rank
+
 ![Predict Rank](https://imgur.com/a/uja2upU)
 
 ### Generate Insights
+
 ![Generate Insights](https://imgur.com/a/lpzz9fk)
