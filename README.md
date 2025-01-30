@@ -93,8 +93,8 @@ npm run dev
 
 ### Predict Rank
 
-![Predict Rank](https://imgur.com/a/uja2upU)
+[![predict-rank.jpg](https://i.postimg.cc/2S2fqwMY/predict-rank.jpg)](https://postimg.cc/k26Hzx7Y)
 
 ### Generate Insights
 
-![Generate Insights](https://imgur.com/a/lpzz9fk)
+[![insights.jpg](https://i.postimg.cc/CK2T7Kw6/insights.jpg)](https://postimg.cc/WD0HbTFM)
